@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Afdal
+<h1>👋Dikulum dikunyah, Assalamualaikum semuanyah </h1>
 
 🚀 Passionate Web Developer from Indonesia  
 💻 Focused on building clean, modern, and functional web apps  
@@ -46,6 +46,6 @@
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com  
-- Instagram: @username  
-- GitHub: https://github.com/USERNAMEKAMU
+- Email: fafdal46@gmail.com  
+- Instagram: @dalfrmnx
+- GitHub: https://github.com/Afdal-17
