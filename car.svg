@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" width="120" height="60">
+  <style>
+    @keyframes drive {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-2px); }
+      100% { transform: translateY(0px); }
+    }
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes wave {
+      0% { transform: rotate(0deg); }
+      50% { transform: rotate(30deg); }
+      100% { transform: rotate(0deg); }
+    }
+    @keyframes exhaust {
+      0% { transform: translateX(0) scale(1); opacity: 0.8; }
+      100% { transform: translateX(-30px) scale(2); opacity: 0; }
+    }
+    .car-body { animation: drive 0.3s infinite; transform-origin: center bottom; }
+    .wheel { animation: spin 0.5s infinite linear; transform-origin: center; }
+    .arm { animation: wave 0.4s infinite alternate; transform-origin: 100px 40px; }
+    .smoke1 { animation: exhaust 0.8s infinite linear; }
+    .smoke2 { animation: exhaust 0.8s infinite linear 0.4s; }
+  </style>
+  
+  <g class="car-body">
+    <!-- Person -->
+    <circle cx="100" cy="35" r="12" fill="#FFCDB2" /> <!-- Head -->
+    <rect x="90" y="45" width="20" height="20" fill="#A855F7" rx="4" /> <!-- Body -->
+    
+    <!-- Waving Arm -->
+    <g class="arm">
+      <rect x="95" y="40" width="8" height="25" fill="#FFCDB2" rx="4" transform="rotate(-130, 100, 40)" />
+      <path d="M 70 20 Q 65 15 75 10" stroke="#FFCDB2" stroke-width="4" stroke-linecap="round" fill="none" />
+    </g>
+
+    <!-- Car Chassis -->
+    <path d="M30 60 L40 40 L130 40 L150 60 L160 60 C165 60 170 65 170 70 L170 80 C170 85 165 90 160 90 L20 90 C15 90 10 85 10 80 L10 70 C10 65 15 60 20 60 Z" fill="#E63946" />
+    <!-- Windows -->
+    <path d="M45 42 L85 42 L85 58 L38 58 Z" fill="#A8DADC" opacity="0.8"/>
+    <path d="M95 42 L125 42 L140 58 L95 58 Z" fill="#A8DADC" opacity="0.8"/>
+    
+    <!-- Lights -->
+    <rect x="160" y="65" width="10" height="15" fill="#F1FAEE" rx="2" />
+    <rect x="10" y="65" width="5" height="15" fill="#D62828" rx="2" />
+  </g>
+  
+  <!-- Wheels -->
+  <g transform="translate(45, 85)">
+    <circle cx="0" cy="0" r="15" fill="#1D3557" />
+    <circle cx="0" cy="0" r="8" fill="#F1FAEE" />
+    <line x1="-8" y1="0" x2="8" y2="0" stroke="#1D3557" stroke-width="2" class="wheel" />
+    <line x1="0" y1="-8" x2="0" y2="8" stroke="#1D3557" stroke-width="2" class="wheel" />
+  </g>
+  <g transform="translate(135, 85)">
+    <circle cx="0" cy="0" r="15" fill="#1D3557" />
+    <circle cx="0" cy="0" r="8" fill="#F1FAEE" />
+    <line x1="-8" y1="0" x2="8" y2="0" stroke="#1D3557" stroke-width="2" class="wheel" />
+    <line x1="0" y1="-8" x2="0" y2="8" stroke="#1D3557" stroke-width="2" class="wheel" />
+  </g>
+
+  <!-- Exhaust Smoke -->
+  <circle cx="10" cy="85" r="5" fill="#BDBDBD" class="smoke1" />
+  <circle cx="5" cy="80" r="4" fill="#BDBDBD" class="smoke2" />
+</svg>

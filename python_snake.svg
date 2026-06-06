@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="55" height="55">
+  <style>
+    @keyframes crawl {
+      0% { transform: translateX(-25px) scaleX(1); }
+      45% { transform: translateX(25px) scaleX(1); }
+      50% { transform: translateX(25px) scaleX(-1); }
+      95% { transform: translateX(-25px) scaleX(-1); }
+      100% { transform: translateX(-25px) scaleX(1); }
+    }
+    @keyframes bob {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+      100% { transform: translateY(0px); }
+    }
+    .snake-wrapper { animation: crawl 4s linear infinite; transform-origin: 50px 50px; }
+    .snake { animation: bob 0.5s ease-in-out infinite; transform-origin: 50px 50px; }
+  </style>
+  <g class="snake-wrapper">
+    <g class="snake">
+      <path d="M49.6 15.4c-13.8 0-16.5 6-16.5 6l0 6.9h19V31h-22C19.3 31 16 38.4 16 50.1c0 11.6 2.8 19 11.2 19h5.6V59.8C32.8 51 40 43.8 49 43.8h9.3c5.3 0 9.7-4.4 9.7-9.7V22c0-5.3-7-6.6-18.4-6.6zm-10 4.6c1.8 0 3.3 1.5 3.3 3.3s-1.5 3.3-3.3 3.3c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3z" fill="#3776AB"/>
+      <path d="M50.4 84.6c13.8 0 16.5-6 16.5-6l0-6.9h-19V69h22c10.8 0 14.1-7.4 14.1-19.1 0-11.6-2.8-19-11.2-19h-5.6v9.3c0 8.8-7.2 16-16.2 16h-9.3c-5.3 0-9.7 4.4-9.7 9.7V78c0 5.3 7 6.6 18.4 6.6zm10-4.6c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3c1.8 0 3.3 1.5 3.3 3.3s-1.5 3.3-3.3 3.3z" fill="#FFD43B"/>
+    </g>
+  </g>
+</svg>
