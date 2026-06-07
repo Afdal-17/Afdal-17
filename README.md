@@ -10,17 +10,17 @@
 
 <!-- Waving Car Animation -->
 <div align="center">
-  <img src="car.svg" width="160" height="80" alt="Driving Car" align="center">
+  <img src="car.svg" width="400" height="350" alt="Driving Car" align="center">
   <br/>
-  <b><font color="#A855F7" size="3">Beep beep! Halo, selamat datang di profile saya! 🚗💨</font></b>
+  <b><font color="#A855F7" size="4">Salam hormat untuk para coders sejati, let's intro with me!🚗💨</font></b>
 </div>
 
 <br/>
 
 <!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Afdal-17&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Afdal-17?style=for-the-badge&color=A855F7&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
@@ -34,22 +34,22 @@
 </div>
 
 ```yaml
-name        : "Uer"
-location    : "Indonesia 🇮🇩"
+name        : "Kennn"
+location    : "Cianjur, Jawa Barat 🇮🇩"
 role        : "Mobile & Web Developer"
 focus       : "Flutter Apps | Laravel APIs | Full-Stack Solutions"
 currently   : "Building Rivendell POS System 🏪"
-hobbies     : ["Coding", "Problem Solving", "Open Source"]
-motto       : "Code is poetry, ship it with passion 🔥"
+hobbies     : ["Vibe Coding", "Game ML", "Joging", "DLL"]
+motto       : "Hidup hanya sekali, jadilah orang baik (tergantung orangnya)☕"
 ```
 
 <div align="center">
 
 <!-- Animated Snake Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afdal-17/Afdal-17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afdal-17/Afdal-17/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Afdal-17/Afdal-17/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
@@ -109,22 +109,22 @@ motto       : "Code is poetry, ship it with passion 🔥"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&border_color=A855F7&title_color=A855F7&icon_color=A855F7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afdal-17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&border_color=A855F7&title_color=A855F7&icon_color=A855F7"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&border_color=A855F7&title_color=A855F7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afdal-17&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&border_color=A855F7&title_color=A855F7"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&border_radius=12&border=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Afdal-17&theme=tokyonight&border_radius=12&border=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&bg_color=1a1b27&color=A855F7&line=A855F7&point=FF6B6B&area=true&hide_border=false&border_color=A855F7&radius=12" alt="Contribution Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Afdal-17&bg_color=1a1b27&color=A855F7&line=A855F7&point=FF6B6B&area=true&hide_border=false&border_color=A855F7&radius=12" alt="Contribution Graph"/>
 
 </div>
 
@@ -147,11 +147,11 @@ motto       : "Code is poetry, ship it with passion 🔥"
 
 <div align="center">
 
-<a href="https://github.com/YourGitHubUsername/rivendell-pos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=rivendell-pos&theme=tokyonight&border_color=A855F7&title_color=A855F7&icon_color=A855F7" />
+<a href="https://github.com/Afdal-17/rivendell-pos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Afdal-17&repo=rivendell-pos&theme=tokyonight&border_color=A855F7&title_color=A855F7&icon_color=A855F7" />
 </a>
 &nbsp;
-<a href="https://github.com/YourGitHubUsername/YourOtherProject">
+<a href="https://github.com/Afdal-17/YourOtherProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=YourOtherProject&theme=tokyonight&border_color=A855F7&title_color=A855F7&icon_color=A855F7" />
 </a>
 
@@ -164,7 +164,7 @@ motto       : "Code is poetry, ship it with passion 🔥"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Afdal-17&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
