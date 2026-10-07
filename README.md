@@ -36,7 +36,7 @@
 ```yaml
 name        : "Kennn"
 location    : "Cianjur, Jawa Barat 🇮🇩"
-role        : "Mobile & Web Developer"
+role        : "Kadang full kadang frontend"
 focus       : "Flutter Apps | Laravel APIs | Full-Stack Solutions"
 currently   : "Building Rivendell POS System 🏪"
 hobbies     : ["Vibe Coding", "Game ML", "Joging", "DLL"]
